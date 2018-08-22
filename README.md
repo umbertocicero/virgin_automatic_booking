@@ -5,5 +5,5 @@ virgin gym course automatic booking system
 
 links:
 
-https://github.com/GoogleChrome/puppeteer
-https://github.com/GoogleChrome/puppeteer/issues/665
+* https://github.com/GoogleChrome/puppeteer
+* https://github.com/GoogleChrome/puppeteer/issues/665
